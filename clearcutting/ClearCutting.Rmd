@@ -1,37 +1,78 @@
 ---
-title: "French Revolution"
+title: "Clear-cutting of the Rainforests in Brazil in the 2000s"
 author: "Khadeeja.S"
 date: "June 05, 2018"
-output: html_document
+output: 
+  html_document:
+    toc: true # table of content true
+    toc_float: true
+    toc_depth: 4  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: false  ## if you want number sections at each table header
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+    css: styles.css   # you can add your custom css, should be in same folder
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#### <span style="color:red"><b>1) Reign of Terror: </b></span>
-The reign of terror began after the death of king Louis XVl in 1793. Originally, the Committee of Public Safety was created to keep the reforms of the revolution. The main leader of this committee was Maximilien Robespierre. One of the major goals was to stop any counterrevolutionary threats which resulted in a major number of executions. The large number of executions is what gave this period its nickname. This time ended when the National Convention joined the enemies of Robespierre to overthrow him. 
+### <span style="color:red"><b>Amazon Rainforest</b></span>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam massa ex, vestibulum ut tortor sed, tempus lacinia quam. Vivamus id nulla rutrum, convallis lorem in, sodales sem. Nunc vitae pretium elit. Aliquam id est sit amet sem congue suscipit eget ac urna. Proin libero ipsum, molestie vitae iaculis eu, mattis ut lectus. Praesent semper hendrerit elit ut ultricies. Vivamus libero velit, elementum id hendrerit sit amet, malesuada ac nulla. Aliquam vestibulum turpis sit amet felis venenatis viverra. 
 
-<div id="picture1"><img src="picture1.jpg" alt="picture1"></div>
+- Where is it located
+- How many trees are there?
+- What kinds of animals species are there in the rainforest?
 
-#### <span style="color:red"><b>2) The "Declaration of the Rights of Man": </b></span>
-The reign of terror began after the death of king Louis XVl in 1793. Originally, the Committee of Public Safety was created to keep the reforms of the revolution. The main leader of this committee was Maximilien Robespierre. One of the major goals was to stop any counterrevolutionary threats which resulted in a major number of executions. The large number of executions is what gave this period its nickname. This time ended when the National Convention joined the enemies of Robespierre to overthrow him. 
+From guardian
+<div id="picture00"><img src="picture00.jpg" alt="picture00" height="800" width="800"></div> <br>
 
+### <span style="color:red"><b>Clear-cutting of Rainforest?</b></span>
+Duis libero mi, tincidunt in mollis in, mattis et neque. Vivamus ut massa et quam tristique tempus. Sed a enim ornare, condimentum erat ut, egestas felis. Integer bibendum quis justo finibus convallis. Praesent lectus turpis, ullamcorper ut felis et, placerat ultricies purus. Morbi dapibus odio tellus, in suscipit odio aliquam in. Vivamus non massa rhoncus, pharetra augue non, rutrum nisi. In malesuada dui dui, sit amet lobortis arcu tempor eu. Morbi id nunc a odio gravida feugiat.
 
-#### <span style="color:red"><b>3) Women's March on Versailles: </b></span>
-The Women's march on Versailles happen on October 1789 when a large crowd marched to Versailles. The people in the crowd had mixed intentions some wanted to petition for bread shortages to the king while others wanted retribution against Marie Antoinette. It took about one day to finally get the king and the assembly to accompany the mob go with the mob to Paris. The march was successful in bringing the king to France and forcing the king to accept the reforms. 
+- What is clear-cutting of Rainforest?
+- When did it start?
+- Why was it done?
 
-<div id="picture2"><img src="picture2.jpg" alt="picture2"></div>
+<div id="picture01"><img src="picture01.jpg" alt="picture01" height="800" width="800"></div> <br>
 
-#### <span style="color:red"><b>4) The Execution of Louis XVI: </b></span>
-The Women's march on Versailles happen on October 1789 when a large crowd marched to Versailles. The people in the crowd had mixed intentions some wanted to petition for bread shortages to the king while others wanted retribution against Marie Antoinette. It took about one day to finally get the king and the assembly to accompany the mob go with the mob to Paris. The march was successful in bringing the king to France and forcing the king to accept the reforms. 
+### <span style="color:red"><b>Why was clear-cutting done?</b></span>
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus facilisis turpis id dui placerat condimentum. Pellentesque volutpat sapien quis ipsum elementum, sit amet pulvinar dui rutrum. Phasellus quis nisl elementum, dictum mi quis, semper tortor. Etiam quis rutrum mauris. Etiam eget fringilla leo, a posuere enim. Sed luctus enim vitae tempus elementum. Etiam aliquam sollicitudin lacus non volutpat.
 
-#### <span style="color:red"><b>5) References: </b></span>
-<li>http://www.historywiz.com/terror.htm </li>
-<li>https://www.encyclopedia.com/history/modern-europe/french-history/reign-terror </li>
-<li>http://avalon.law.yale.edu/18th_century/rightsof.asp </li>
-<li>http://alphahistory.com/frenchrevolution/declaration-rights-of-man-and-citizen/ </li>
-<li>http://alphahistory.com/frenchrevolution/october-march-on-versailles/ </li>
-<li>https://www.thoughtco.com/womens-march-on-versailles-3529107 </li>
-<li>https://www.history.com/this-day-in-history/king-louis-xvi-executed </li>
+<div id="picture02"><img src="picture02.jpg" alt="picture02" height="800" width="800"></div> <br>
+
+### <span style="color:red"><b>Environmental impact of clear-cutting</b></span>
+Vestibulum ligula libero, dictum at lorem eu, iaculis maximus erat. Donec sed ex a nisi sodales elementum. Morbi finibus, tellus eu fermentum commodo, dolor velit dapibus purus, et egestas enim enim eget metus. Aliquam tristique libero id quam malesuada, eu luctus justo rhoncus. Sed bibendum feugiat eros, et convallis leo tincidunt vitae. Vivamus risus erat, porta in sem ac, interdum laoreet nunc. Sed turpis nunc, iaculis sit amet condimentum ac, faucibus ut ante. Vivamus at lacinia nisl. Duis rutrum convallis lectus, ac suscipit magna dignissim tincidunt.
+
+- Who was behind clear-cutting
+- How much money did the companies make?
+- What impact did it have on the environment and the eco system?
+
+From guardian
+<div id="picture03"><img src="picture03.jpg" alt="picture03" height="800" width="800"></div> <br>
+
+### <span style="color:red"><b>Steps taken to stop clear-cutting?</b></span>
+Quisque venenatis vulputate libero at lacinia. Nulla laoreet dolor ac arcu vestibulum porttitor. Sed ut consequat neque, quis aliquam mi. Aenean bibendum volutpat ipsum vitae eleifend. Integer accumsan maximus tellus id faucibus. Phasellus at iaculis sapien. Nunc et gravida ipsum. Praesent ultricies urna et dapibus posuere. Integer neque tortor, tincidunt et ornare a, pharetra sit amet metus. Etiam sodales et libero sed tempus. Suspendisse id nulla sed libero vulputate efficitur sollicitudin sed magna. Etiam vel enim nec tortor venenatis malesuada a eget dui. Pellentesque a velit in magna dignissim aliquam in in sapien. Duis dapibus hendrerit felis, vel placerat sapien iaculis eget. Vestibulum auctor quis turpis id dapibus. Nunc fermentum luctus velit quis consequat.
+
+- What did the Brazil government do to stop it?
+- Were there any incentives to stop it?
+
+From guardian
+<div id="picture04"><img src="picture04.jpg" alt="picture04" height="800" width="800"></div> <br>
+
+### <span style="color:red"><b>References</b></span>
+<li>https://www.theguardian.com/global-development-professionals-network/gallery/2017/jan/30/state-amazon-rainforest-deforestation-brazil-in-pictures </li>
+<li>https://rainforests.mongabay.com/amazon/amazon_destruction.html </li>
+<li>https://old.datahub.io/dataset/amazon-rainforest-dataset </li>
+<li>http://linkedscience.org/data/linked-brazilian-amazon-rainforest/ </li>
+<li>https://www.nationalgeographic.org/photo/biodiv-clearcut/ </li>
+<li>https://en.wikipedia.org/wiki/Deforestation_in_Brazil </li>
+<li>https://globalforestatlas.yale.edu/amazon/forest-governance/brazil </li>
+<li>https://www.theguardian.com/world/2015/nov/27/amazon-deforestation-report-brazil-paris-climate-talks </li>
+<li>https://www.aaas.org/news/science-clear-cutting-declines-brazil-s-rainforest-fires-are-rise </li>
+<li>https://www.culturalsurvival.org/publications/cultural-survival-quarterly/deforestation-human-costs </li>
+<li>https://www.scientificamerican.com/article/deforestation-and-global-warming/ </li>
+<li>https://www.nasa.gov/centers/goddard/news/topstory/2006/brazil_logging.html </li>
+<li>https://greenliving.lovetoknow.com/environmental-issues/effects-clear-cutting </li>
+
 <br><br>
